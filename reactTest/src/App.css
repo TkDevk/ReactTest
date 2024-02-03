@@ -1,0 +1,39 @@
+*{
+  transition: all 0.5s ease;
+}
+
+.body-container{
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  gap: .8rem;
+}
+
+.navbar{
+  top:0;
+  display: flex;
+  gap:2rem;
+  position: absolute;
+  padding-top:5rem;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+input {
+  align-self: center;
+  padding: .5rem;
+  border-radius: .2rem;
+  width: fit-content;
+}
+a{
+  color:#fff;
+  list-style: none;
+  &:hover{
+    border-bottom: 1px white solid;
+  }
+  
+}
