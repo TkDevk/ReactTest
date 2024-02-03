@@ -1,6 +1,6 @@
 # ReactTest
 
-## Prueba Tecnica de React JS 
+## Prueba de React JS 
 
 ## Presentada por Duvan Rodriguez
 
@@ -17,3 +17,13 @@
         Vercel
     </a>
 </div> 
+
+<h2>Para correr en local</h2>
+
+`
+ReactTest/reactTest
+`
+-
+`
+npm run dev
+`
