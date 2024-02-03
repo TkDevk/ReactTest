@@ -13,6 +13,7 @@ const IntegerNumber = ()=>{
 
     return (
         <>
+        <h2>Ingresa un numero entero positivo</h2>
           <form 
             onSubmit={onSubmit}>
               <input 
